@@ -14,5 +14,5 @@ console.log ('See Me')
 
 
 app.listen(3000, () => {
-console.log('Node is running on port 300')
+console.log('Node is running on port 3000')
 })
